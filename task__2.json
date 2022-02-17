@@ -1,0 +1,26 @@
+[
+    {
+        "x": -15,
+        "y": 20,
+        "height": 120,
+        "duration": 1500,
+        "color": "sand",
+        "shades": ["light", "deep"]
+    },
+    {
+        "x": 60,
+        "y": 3,
+        "height": 220,
+        "duration": 800,
+        "color": "beige",
+        "shades": ["dark", "light", "deep"]
+    },
+    {
+        "x": 70,
+        "y": 14,
+        "height": 150,
+        "duration": 40,
+        "color": "beige",
+        "shades": ["light"]
+    }
+]
