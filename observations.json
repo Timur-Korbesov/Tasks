@@ -1,0 +1,11 @@
+{
+  "England": {},
+  "France": {
+    "carnival": 12,
+    "lake": 2
+  },
+  "Channel": {
+    "frigate": 3,
+    "yacht": 2
+  }
+}
